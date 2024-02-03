@@ -6,7 +6,7 @@ Details and instructions in this post: https://raphtronic.blogspot.com/2024/02/d
 
 Happy printing to all !
 
-Correction: no STEP file for the fan muffler, but **STL** instead. As the Bambu Studio slicer kept throwing a _"132 non manifold edges"_ warning. And the Repair function did not seem to work. But importing STL made BS(!) happy...
+Correction: _no STEP file for the fan muffler, but **STL** instead. As the Bambu Studio slicer kept throwing a _"132 non manifold edges"_ warning. And the Repair function did not seem to work. But importing STL made BS(!) happy..._
 
 ![20240202_142306 crop](https://github.com/RaphTronic/P1S_Silencers/assets/35200718/13809393-84c7-4526-9145-b7f180a1fbdd)
 
