@@ -4,6 +4,8 @@ The gains were staggering: over 20dB over pretty much the whole audio spectrum.
 
 Details and instructions in this post: https://raphtronic.blogspot.com/2024/02/diy-fan-muffler-poop-chute-baffle-for.html
 
+Feel free to copy / remix / whatever.
+
 Happy printing to all !
 
 Correction: _no STEP file for the fan muffler, but **STL** instead. As the Bambu Studio slicer kept throwing a _"132 non manifold edges"_ warning. And the Repair function did not seem to work. But importing STL made BS(!) happy..._
